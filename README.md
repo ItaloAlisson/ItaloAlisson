@@ -4,14 +4,20 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring" />
   <img width="12" />
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="40" alt="Spring Boot"title="Spring Boot"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" height="40" alt="redis logo" title="Redis" />
+  <img width="12" />
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit5 logo" title="Junit5" />
+  <img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" alt="maven logo" title="Maven" />
+  <img width="12" />	
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" title="Postman"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git" />
